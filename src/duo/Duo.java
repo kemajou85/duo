@@ -10,7 +10,7 @@ package duo;
  * @author macbookproretina
  */
 public class Duo {
-
+ public int i;
     /**
      * @param args the command line arguments
      */
@@ -18,4 +18,8 @@ public class Duo {
         // TODO code application logic here
     }
     
+    public int factorielle(){
+        return i;
+    }
+  
 }
